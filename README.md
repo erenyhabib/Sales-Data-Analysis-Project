@@ -17,7 +17,7 @@ This project focuses on cleaning, transforming, and visualizing retail sales dat
 - **Trends:** Visualized sales performance over time to detect seasonal patterns.
 
 ## Files in this Repository
-- `Data_Cleaning.py`: Python script for initial data processing using Pandas.
-- `Cleaning_Query.sql`: SQL scripts for data transformation and grouping.
-- `Sales_Dashboard.pbix`: The Power BI file for interactive visualization.
-- `Dashboard_Preview.png`: A high-quality screenshot of the final dashboard.
+- `project.ipynb`: Python script for initial data processing using Pandas.
+- `SQLQuery1.sql`: SQL scripts for data transformation and grouping.
+- `final project_Dashbard.pbix`: The Power BI file for interactive visualization.
+- `Dashbard.png`: A high-quality screenshot of the final dashboard.
